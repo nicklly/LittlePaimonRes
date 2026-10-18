@@ -1,3 +1,4 @@
+
 name: Update Files
 
 on:
@@ -9,30 +10,40 @@ on:
 
   workflow_dispatch:
 
+# 允许 GitHub Actions 创建 Release 并上传附件
+permissions:
+  contents: write
+
 jobs:
   update:
     name: Update Files
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
-        uses: actions/checkout@master
+        uses: actions/checkout@v4
 
       - name: Setup python
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.9
+          python-version: '3.9'
 
       - name: Update files
         run: |
           python generate_res_list.py
 
-
-      - name: Commit changes
-        uses: EndBug/add-and-commit@v9
+      - name: Publish Release
+        uses: softprops/action-gh-release@v2
         with:
-          author_name: github-actions[bot]
-          author_email: github-actions[bot]@users.noreply.github.com
-          message: ':wrench: 自动更新资源列表'
-          add: |
-            'resources_list.json'
-            'resources.zip'
+          tag_name: resources-${{ github.run_number }}
+          name: LittlePaimonRes 资源更新 #${{ github.run_number }}
+          body: |
+            自动生成并发布的小派蒙资源文件。
+
+            - resources_list.json：资源列表
+            - resources.zip：资源压缩包
+          files: |
+            resources_list.json
+            resources.zip
+          fail_on_unmatched_files: true
+          make_latest: true

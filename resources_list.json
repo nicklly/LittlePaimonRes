@@ -730,701 +730,6 @@
     "lock": true
   },
   {
-    "path": "LittlePaimon/general/bg.png",
-    "hash": "dd6363ab3d08fe72514abed9e4e8ce47",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/black.png",
-    "hash": "41c1d3c4250bbb041f0272d4457d1b05",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/black2.png",
-    "hash": "870fa9f5fee2da1c7aa58a5481f66057",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/black_bord.png",
-    "hash": "f810aa771fdde64a8e12f2e57195bf07",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/black_card.png",
-    "hash": "c8af08bf429c4261c92f61c098e0e15a",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/black_card2.png",
-    "hash": "5257ced86763be06016ca0382caf76fc",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/bubble.png",
-    "hash": "21891b64817626f57f9933bfb32becfd",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/frame.png",
-    "hash": "0a0a3dabe3690ba4beb093a6f1a34ddd",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/line.png",
-    "hash": "1df92e0c545528ab7d1cb42c8f5746e3",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/orange.png",
-    "hash": "eb112021959a4c939b7623cf275df1e4",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/orange_bord.png",
-    "hash": "9bcd7c646aa69e1478b1adec375582eb",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/orange_bord_large.png",
-    "hash": "b90bc419beeb9894fbd88567ec191e19",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/orange_bord_small.png",
-    "hash": "3ab2910359a595cbb07ce3577a4eb7dc",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/orange_card.png",
-    "hash": "b8f6ea0b3d152d32bce2576a1c13bdda",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/orange_circle.png",
-    "hash": "1db6af681afe0fca5b26e7621e8be90a",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/tag.png",
-    "hash": "e5213af1717effb48f4377f2320534ef",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/卡片底部.png",
-    "hash": "35d9e58dda79621260fbcf285d4d4c83",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/卡片身体.png",
-    "hash": "05b1cfede7bc82eb92ab31f89821e844",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/general/卡片顶部无字.png",
-    "hash": "d35014eec279f325098551dcaabb8022",
-    "lock": false
-  },
-  {
-    "path": "LittlePaimon/genshin_map/anchor_icon.png",
-    "hash": "479f87996e34186a44196c523eab1014",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/genshin_map/bg.png",
-    "hash": "beb4aa438ffc0686915e7be490d0c7c8",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/genshin_map/point_box.png",
-    "hash": "47d26b4d06b48cd327a981368b408f80",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/genshin_map/point_icon.png",
-    "hash": "0a2f7de9f85345f3aaae6220bf91d91b",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/genshin_map/status_icon.png",
-    "hash": "744ec978c398e6109220c5d21b8d6062",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/hard_challenge/bg.png",
-    "hash": "cb59927dcccc4e296382627401bd2688",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/hard_challenge/Icon_Stygian_Onslaught_Medal_1.png",
-    "hash": "ee679ab0db627bbe9280340e74d4c544",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/hard_challenge/Icon_Stygian_Onslaught_Medal_2.png",
-    "hash": "3daae6dfee097d11f5d12ccd6fcec01e",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/hard_challenge/Icon_Stygian_Onslaught_Medal_3.png",
-    "hash": "28afebd8d2d4ea0ece9e38b94db63f09",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/hard_challenge/Icon_Stygian_Onslaught_Medal_4.png",
-    "hash": "cdb90b219d3c942da09474cc6eeca89e",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/hard_challenge/Icon_Stygian_Onslaught_Medal_5.png",
-    "hash": "7cf0a23a51f5bf48c0abd2937f122fa6",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/hard_challenge/Icon_Stygian_Onslaught_Medal_6a.png",
-    "hash": "4f6d0ca092c8c0853d188d162d24f19d",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/hard_challenge/Icon_Stygian_Onslaught_Medal_6b.png",
-    "hash": "264aed533b9a06d4b385b36b1395b764",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/4starbox.png",
-    "hash": "54546f412c344ad23d550cf0947dfeb1",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/5starbox.png",
-    "hash": "cf1cc08ba91e928a774c567bc01930ba",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/fail.png",
-    "hash": "c0551c452d1c4d84a37c14bc4467c5c0",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/grey_box.png",
-    "hash": "d527cc28ef26057a4d5cdba9007a4dd6",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/level_hywh_0.png",
-    "hash": "8c02a2b4f1a11b156f7e6f2bc739f13b",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/level_hywh_1.png",
-    "hash": "549bf329c0e61747cb296113e9841cb1",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/level_hywh_2.png",
-    "hash": "3d610bb52c6ff1b63e1ebb4103a1c31a",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/level_hywh_3.png",
-    "hash": "c7d73bbbcb9d86fad204c7f235c226b8",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/level_hywh_4.png",
-    "hash": "7c75360e1b6116f88fc7799ca6dba600",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/level_hywh_5.png",
-    "hash": "03ed6781d6666290576e8b8c260c6687",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/level_hywh_6.png",
-    "hash": "656ba20a15a070de22ffa27f05580ea7",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/rankA.png",
-    "hash": "b2eb358748d733bd4ca7fd23716aabf0",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/rankB.png",
-    "hash": "86c16bc19dc61cba29574781f04ce4be",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/rankC.png",
-    "hash": "0d4bbc9917ab6eb15f3352ce6e44b0ee",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/rankS.png",
-    "hash": "b4e6789e89761f80e842148ccb37e797",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/rankSS.png",
-    "hash": "fd675bab836ded3821336bc2b377de5c",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/rankSSS.png",
-    "hash": "7fa86e8c3d2a427b390488d6a1bede01",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/star1.png",
-    "hash": "de91f72fa4873eac769cba5999550b48",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/star2.png",
-    "hash": "571e5bc9839ade8e7be416774cf62b7e",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/star3.png",
-    "hash": "b488ed36862e26e2fba233e5eacf95a1",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/star4.png",
-    "hash": "73bf3da5c359294515eea97b2666080e",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/star4_no_line.png",
-    "hash": "f5618be4cbb62b3a1a8eafcb77da237a",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/star5.png",
-    "hash": "cf87453b40a9c6e4543ebfe884dd258c",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/star5_no_line.png",
-    "hash": "d7cde6daa494b992a7485022b146d4ea",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/success.png",
-    "hash": "4c0fd67be547323c541e7f204bb5e019",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/冰.png",
-    "hash": "c4b32072bbe44dd44afc102d0c486baa",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/命之座0.png",
-    "hash": "8fddbf38b23710d393af41ebfa2403ee",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/命之座1.png",
-    "hash": "afb06d9b9b43a9f5d7ef53a3ef308d7a",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/命之座2.png",
-    "hash": "89433b443ebc374f9798bc3103a64fdd",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/命之座3.png",
-    "hash": "984ddd3caf01c0bb4e551fd4f034f9e1",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/命之座4.png",
-    "hash": "5ffece8e7abf1e34976e14de0a1183af",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/命之座5.png",
-    "hash": "74b0e3fbb512f3280d26536bb3fc97e4",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/命之座6.png",
-    "hash": "96add3892b541bed14d150ac7c792705",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/好感度0.png",
-    "hash": "3a5ef11575a5232941347b2461cf28f5",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/好感度1.png",
-    "hash": "b0f0f34fc86a138b9674d0ef89bc1a4a",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/好感度10.png",
-    "hash": "551ee60355190ce57aa10096e129e747",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/好感度2.png",
-    "hash": "c2a49110a9d24551671e8a7667e553c7",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/好感度3.png",
-    "hash": "9e52d5952c7988d6701c7c11982be859",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/好感度4.png",
-    "hash": "88876b792ea519975f0128d02cc01603",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/好感度5.png",
-    "hash": "9c55752bf758aedf5cbcddc219a8d16f",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/好感度6.png",
-    "hash": "bde621e0ad2e3b761075c24819d048ba",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/好感度7.png",
-    "hash": "8cd9afd6f4471304442bc0838557607a",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/好感度8.png",
-    "hash": "cfd97993735b2a909ff1c20d19c034d9",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/好感度9.png",
-    "hash": "dc7c427685a1c411eaec9bdce8d3c08d",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/岩.png",
-    "hash": "3bd4c6605107bef4f0cf04e5a41c01c0",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/水.png",
-    "hash": "db837bdbc89591f37a171298df53b71a",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/火.png",
-    "hash": "ae9e4ecb8e8d88ac9ce7a8f2a8614fc7",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/精炼1.png",
-    "hash": "ccc9ae79602e92e96c709a9da6e5c746",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/精炼2.png",
-    "hash": "9e98a7d782efd81819d39a6cf36196ba",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/精炼3.png",
-    "hash": "ab57d69ba4cc5d6beed36e0bccded400",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/精炼4.png",
-    "hash": "9e22d2e2648dbacca0a12628f33b28ef",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/精炼5.png",
-    "hash": "e8018bee4760b9c0ad382129aa342d16",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/草.png",
-    "hash": "51c7a903b4d244c255590a9e9dec4d7f",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/雷.png",
-    "hash": "cd459f76e543f140e462e10f64304aa7",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/icon/风.png",
-    "hash": "4269c00b5f3e91dc0dcfff948d4b1631",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/monthinfo/bg.png",
-    "hash": "4542e0abbfb58ead96e083c175874c9f",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/monthinfo/box.png",
-    "hash": "9cd49d13d62b4fffecf04ba3c9aa207e",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/monthinfo/circle.png",
-    "hash": "2289f031e3d3617eb7975f2ad98197c5",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/monthinfo/line.png",
-    "hash": "90b6859f9ef81ad2e49704f5e76993ee",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/monthinfo/原石.png",
-    "hash": "9e098004d762475c95cbb0b3316ab7b5",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/monthinfo/摩拉.png",
-    "hash": "bd648d8ec54f17cb1d03165ad0540bff",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/player_card/bg.png",
-    "hash": "d98596cfa77b070bdc5b0b9ee5b8be3a",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/player_card/chara_4star.png",
-    "hash": "2874b2ffca8fdd3a36ba012087b646fc",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/player_card/chara_5star.png",
-    "hash": "bbf0656619f90cafeaaa1d7a5fb6a085",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/player_card/white_bg.png",
-    "hash": "7bf5486bcfb57868f1b3814838feb537",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/player_info/4_star_bg.png",
-    "hash": "54546f412c344ad23d550cf0947dfeb1",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/player_info/5_star_bg.png",
-    "hash": "cf1cc08ba91e928a774c567bc01930ba",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/player_info/avatar_bg.png",
-    "hash": "1c1197ca4bf68c274e997a51476657fd",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/player_info/bg.png",
-    "hash": "183a3b0f91ed0951977ae7c0bdd5a04d",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/player_info/star4.png",
-    "hash": "73bf3da5c359294515eea97b2666080e",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/player_info/star5.png",
-    "hash": "cf87453b40a9c6e4543ebfe884dd258c",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/player_info/update_bar.png",
-    "hash": "39275da981440c59f4657abea4824d65",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/player_info/文字遮盖层.png",
-    "hash": "aa581c934a1bf8de3e60ea3c36840eda",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/player_info/遮盖层.png",
-    "hash": "2274fd2b7e24471f708b2bc116ad8cd8",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/role_combat/flower.png",
-    "hash": "9d7ec9af71ad9f363aaab6118ae7ebfc",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/role_combat/heraldry.png",
-    "hash": "8c6c8d09b681ceb8e57beb1d070b55e0",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/role_combat/medal.png",
-    "hash": "adecbf753cb0ee0820e9986420d635f0",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/role_combat/nomedal.png",
-    "hash": "2694044bff6979dbd5817748363465a3",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/光锥-雷.png",
-    "hash": "d33af049d9cda038c4475271b1ad1fe0",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/光锥3星.png",
-    "hash": "a183495e88f858d6804551dde0b26ff4",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/光锥4星.png",
-    "hash": "d2fd83678ca64d7d328ffc1eb123e1a9",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/光锥5星.png",
-    "hash": "c265668952c1fa0dc856849503acafb7",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/星魂圆.png",
-    "hash": "2dc2603b1e1f031b0cf615ba7716fe0e",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/星魂圆暗.png",
-    "hash": "511a903c0115c26e7e74baca5b1d6944",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/立绘mask.png",
-    "hash": "188236b1a7b627599b231d17bb9e777c",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/立绘边框-冰.png",
-    "hash": "50384ac54efb4f3acb56c6f753120d77",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/立绘边框-火.png",
-    "hash": "253e97e444079f273be409a7b365e1ba",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/立绘边框-物理.png",
-    "hash": "6022cae12a4a87bcfeb0a82f6a193a46",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/立绘边框-虚数.png",
-    "hash": "74c53da6a9d07c46d83720de9fb25b3e",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/立绘边框-量子.png",
-    "hash": "19b01b93f58142c84f19099b56e44358",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/立绘边框-雷.png",
-    "hash": "36758aace812269beb257469d7d628db",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/立绘边框-风.png",
-    "hash": "e4916503980698616d56459b86ccbde6",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/背景-冰.png",
-    "hash": "883445f1f7911a1ce6cb0562585476d3",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/背景-火.png",
-    "hash": "a511ce3abcec94cd0a7b46904bea871b",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/背景-物理.png",
-    "hash": "d2e1096233126f9c1d5c1004a8239016",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/背景-虚数.png",
-    "hash": "f43358e2c511700ba6f42acdf6bce550",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/背景-量子.png",
-    "hash": "836586a1e5cb67fb60a77a9975d196ca",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/背景-雷.png",
-    "hash": "bb898de4d8adc442fd66881b1ce31a91",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/背景-风.png",
-    "hash": "f397543612b176755e88ca7d8c503434",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/行迹-雷.png",
-    "hash": "550c7b9d82883d3b30d7da1d383da608",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/遗器-冰.png",
-    "hash": "c56b29aad3af8032067ed3037ba95f37",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/遗器-火.png",
-    "hash": "ae3f38c2540b948b2de8c39c0b7adf1a",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/遗器-物理.png",
-    "hash": "ad1eeb80ec9fafe71332cbf20f5b52c6",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/遗器-虚数.png",
-    "hash": "46a094ef806ec05486b0421611ef37a6",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/遗器-量子.png",
-    "hash": "c7c73c243f8103e8723862d7f740379d",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/遗器-雷.png",
-    "hash": "d1273ee35a5a958bce761505c307aea4",
-    "lock": true
-  },
-  {
-    "path": "LittlePaimon/star_rail/遗器-风.png",
-    "hash": "05cdd19bdbd322fa130338f48b27bbce",
-    "lock": true
-  },
-  {
     "path": "LittlePaimon/gacha_res/元素/冰.png",
     "hash": "74c907c1a1af4fde6d70c9770de49529",
     "lock": true
@@ -2282,6 +1587,701 @@
   {
     "path": "LittlePaimon/gacha_res/角色/鹿野院平藏.png",
     "hash": "9bbaee128ebe77c339dd628e931a0fb5",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/general/bg.png",
+    "hash": "dd6363ab3d08fe72514abed9e4e8ce47",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/black.png",
+    "hash": "41c1d3c4250bbb041f0272d4457d1b05",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/black2.png",
+    "hash": "870fa9f5fee2da1c7aa58a5481f66057",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/black_bord.png",
+    "hash": "f810aa771fdde64a8e12f2e57195bf07",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/black_card.png",
+    "hash": "c8af08bf429c4261c92f61c098e0e15a",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/black_card2.png",
+    "hash": "5257ced86763be06016ca0382caf76fc",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/bubble.png",
+    "hash": "21891b64817626f57f9933bfb32becfd",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/frame.png",
+    "hash": "0a0a3dabe3690ba4beb093a6f1a34ddd",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/line.png",
+    "hash": "1df92e0c545528ab7d1cb42c8f5746e3",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/orange.png",
+    "hash": "eb112021959a4c939b7623cf275df1e4",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/orange_bord.png",
+    "hash": "9bcd7c646aa69e1478b1adec375582eb",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/orange_bord_large.png",
+    "hash": "b90bc419beeb9894fbd88567ec191e19",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/orange_bord_small.png",
+    "hash": "3ab2910359a595cbb07ce3577a4eb7dc",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/orange_card.png",
+    "hash": "b8f6ea0b3d152d32bce2576a1c13bdda",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/orange_circle.png",
+    "hash": "1db6af681afe0fca5b26e7621e8be90a",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/tag.png",
+    "hash": "e5213af1717effb48f4377f2320534ef",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/卡片底部.png",
+    "hash": "35d9e58dda79621260fbcf285d4d4c83",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/卡片身体.png",
+    "hash": "05b1cfede7bc82eb92ab31f89821e844",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/general/卡片顶部无字.png",
+    "hash": "d35014eec279f325098551dcaabb8022",
+    "lock": false
+  },
+  {
+    "path": "LittlePaimon/genshin_map/anchor_icon.png",
+    "hash": "479f87996e34186a44196c523eab1014",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/genshin_map/bg.png",
+    "hash": "beb4aa438ffc0686915e7be490d0c7c8",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/genshin_map/point_box.png",
+    "hash": "47d26b4d06b48cd327a981368b408f80",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/genshin_map/point_icon.png",
+    "hash": "0a2f7de9f85345f3aaae6220bf91d91b",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/genshin_map/status_icon.png",
+    "hash": "744ec978c398e6109220c5d21b8d6062",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/hard_challenge/bg.png",
+    "hash": "cb59927dcccc4e296382627401bd2688",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/hard_challenge/Icon_Stygian_Onslaught_Medal_1.png",
+    "hash": "ee679ab0db627bbe9280340e74d4c544",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/hard_challenge/Icon_Stygian_Onslaught_Medal_2.png",
+    "hash": "3daae6dfee097d11f5d12ccd6fcec01e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/hard_challenge/Icon_Stygian_Onslaught_Medal_3.png",
+    "hash": "28afebd8d2d4ea0ece9e38b94db63f09",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/hard_challenge/Icon_Stygian_Onslaught_Medal_4.png",
+    "hash": "cdb90b219d3c942da09474cc6eeca89e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/hard_challenge/Icon_Stygian_Onslaught_Medal_5.png",
+    "hash": "7cf0a23a51f5bf48c0abd2937f122fa6",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/hard_challenge/Icon_Stygian_Onslaught_Medal_6a.png",
+    "hash": "4f6d0ca092c8c0853d188d162d24f19d",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/hard_challenge/Icon_Stygian_Onslaught_Medal_6b.png",
+    "hash": "264aed533b9a06d4b385b36b1395b764",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/4starbox.png",
+    "hash": "54546f412c344ad23d550cf0947dfeb1",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/5starbox.png",
+    "hash": "cf1cc08ba91e928a774c567bc01930ba",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/fail.png",
+    "hash": "c0551c452d1c4d84a37c14bc4467c5c0",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/grey_box.png",
+    "hash": "d527cc28ef26057a4d5cdba9007a4dd6",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/level_hywh_0.png",
+    "hash": "8c02a2b4f1a11b156f7e6f2bc739f13b",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/level_hywh_1.png",
+    "hash": "549bf329c0e61747cb296113e9841cb1",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/level_hywh_2.png",
+    "hash": "3d610bb52c6ff1b63e1ebb4103a1c31a",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/level_hywh_3.png",
+    "hash": "c7d73bbbcb9d86fad204c7f235c226b8",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/level_hywh_4.png",
+    "hash": "7c75360e1b6116f88fc7799ca6dba600",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/level_hywh_5.png",
+    "hash": "03ed6781d6666290576e8b8c260c6687",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/level_hywh_6.png",
+    "hash": "656ba20a15a070de22ffa27f05580ea7",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/rankA.png",
+    "hash": "b2eb358748d733bd4ca7fd23716aabf0",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/rankB.png",
+    "hash": "86c16bc19dc61cba29574781f04ce4be",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/rankC.png",
+    "hash": "0d4bbc9917ab6eb15f3352ce6e44b0ee",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/rankS.png",
+    "hash": "b4e6789e89761f80e842148ccb37e797",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/rankSS.png",
+    "hash": "fd675bab836ded3821336bc2b377de5c",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/rankSSS.png",
+    "hash": "7fa86e8c3d2a427b390488d6a1bede01",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/star1.png",
+    "hash": "de91f72fa4873eac769cba5999550b48",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/star2.png",
+    "hash": "571e5bc9839ade8e7be416774cf62b7e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/star3.png",
+    "hash": "b488ed36862e26e2fba233e5eacf95a1",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/star4.png",
+    "hash": "73bf3da5c359294515eea97b2666080e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/star4_no_line.png",
+    "hash": "f5618be4cbb62b3a1a8eafcb77da237a",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/star5.png",
+    "hash": "cf87453b40a9c6e4543ebfe884dd258c",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/star5_no_line.png",
+    "hash": "d7cde6daa494b992a7485022b146d4ea",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/success.png",
+    "hash": "4c0fd67be547323c541e7f204bb5e019",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/冰.png",
+    "hash": "c4b32072bbe44dd44afc102d0c486baa",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/命之座0.png",
+    "hash": "8fddbf38b23710d393af41ebfa2403ee",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/命之座1.png",
+    "hash": "afb06d9b9b43a9f5d7ef53a3ef308d7a",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/命之座2.png",
+    "hash": "89433b443ebc374f9798bc3103a64fdd",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/命之座3.png",
+    "hash": "984ddd3caf01c0bb4e551fd4f034f9e1",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/命之座4.png",
+    "hash": "5ffece8e7abf1e34976e14de0a1183af",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/命之座5.png",
+    "hash": "74b0e3fbb512f3280d26536bb3fc97e4",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/命之座6.png",
+    "hash": "96add3892b541bed14d150ac7c792705",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/好感度0.png",
+    "hash": "3a5ef11575a5232941347b2461cf28f5",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/好感度1.png",
+    "hash": "b0f0f34fc86a138b9674d0ef89bc1a4a",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/好感度10.png",
+    "hash": "551ee60355190ce57aa10096e129e747",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/好感度2.png",
+    "hash": "c2a49110a9d24551671e8a7667e553c7",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/好感度3.png",
+    "hash": "9e52d5952c7988d6701c7c11982be859",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/好感度4.png",
+    "hash": "88876b792ea519975f0128d02cc01603",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/好感度5.png",
+    "hash": "9c55752bf758aedf5cbcddc219a8d16f",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/好感度6.png",
+    "hash": "bde621e0ad2e3b761075c24819d048ba",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/好感度7.png",
+    "hash": "8cd9afd6f4471304442bc0838557607a",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/好感度8.png",
+    "hash": "cfd97993735b2a909ff1c20d19c034d9",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/好感度9.png",
+    "hash": "dc7c427685a1c411eaec9bdce8d3c08d",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/岩.png",
+    "hash": "3bd4c6605107bef4f0cf04e5a41c01c0",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/水.png",
+    "hash": "db837bdbc89591f37a171298df53b71a",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/火.png",
+    "hash": "ae9e4ecb8e8d88ac9ce7a8f2a8614fc7",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/精炼1.png",
+    "hash": "ccc9ae79602e92e96c709a9da6e5c746",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/精炼2.png",
+    "hash": "9e98a7d782efd81819d39a6cf36196ba",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/精炼3.png",
+    "hash": "ab57d69ba4cc5d6beed36e0bccded400",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/精炼4.png",
+    "hash": "9e22d2e2648dbacca0a12628f33b28ef",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/精炼5.png",
+    "hash": "e8018bee4760b9c0ad382129aa342d16",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/草.png",
+    "hash": "51c7a903b4d244c255590a9e9dec4d7f",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/雷.png",
+    "hash": "cd459f76e543f140e462e10f64304aa7",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/icon/风.png",
+    "hash": "4269c00b5f3e91dc0dcfff948d4b1631",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/monthinfo/bg.png",
+    "hash": "4542e0abbfb58ead96e083c175874c9f",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/monthinfo/box.png",
+    "hash": "9cd49d13d62b4fffecf04ba3c9aa207e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/monthinfo/circle.png",
+    "hash": "2289f031e3d3617eb7975f2ad98197c5",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/monthinfo/line.png",
+    "hash": "90b6859f9ef81ad2e49704f5e76993ee",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/monthinfo/原石.png",
+    "hash": "9e098004d762475c95cbb0b3316ab7b5",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/monthinfo/摩拉.png",
+    "hash": "bd648d8ec54f17cb1d03165ad0540bff",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/player_card/bg.png",
+    "hash": "d98596cfa77b070bdc5b0b9ee5b8be3a",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/player_card/chara_4star.png",
+    "hash": "2874b2ffca8fdd3a36ba012087b646fc",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/player_card/chara_5star.png",
+    "hash": "bbf0656619f90cafeaaa1d7a5fb6a085",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/player_card/white_bg.png",
+    "hash": "7bf5486bcfb57868f1b3814838feb537",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/player_info/4_star_bg.png",
+    "hash": "54546f412c344ad23d550cf0947dfeb1",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/player_info/5_star_bg.png",
+    "hash": "cf1cc08ba91e928a774c567bc01930ba",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/player_info/avatar_bg.png",
+    "hash": "1c1197ca4bf68c274e997a51476657fd",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/player_info/bg.png",
+    "hash": "183a3b0f91ed0951977ae7c0bdd5a04d",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/player_info/star4.png",
+    "hash": "73bf3da5c359294515eea97b2666080e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/player_info/star5.png",
+    "hash": "cf87453b40a9c6e4543ebfe884dd258c",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/player_info/update_bar.png",
+    "hash": "39275da981440c59f4657abea4824d65",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/player_info/文字遮盖层.png",
+    "hash": "aa581c934a1bf8de3e60ea3c36840eda",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/player_info/遮盖层.png",
+    "hash": "2274fd2b7e24471f708b2bc116ad8cd8",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/role_combat/flower.png",
+    "hash": "9d7ec9af71ad9f363aaab6118ae7ebfc",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/role_combat/heraldry.png",
+    "hash": "8c6c8d09b681ceb8e57beb1d070b55e0",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/role_combat/medal.png",
+    "hash": "adecbf753cb0ee0820e9986420d635f0",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/role_combat/nomedal.png",
+    "hash": "2694044bff6979dbd5817748363465a3",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/光锥-雷.png",
+    "hash": "d33af049d9cda038c4475271b1ad1fe0",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/光锥3星.png",
+    "hash": "a183495e88f858d6804551dde0b26ff4",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/光锥4星.png",
+    "hash": "d2fd83678ca64d7d328ffc1eb123e1a9",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/光锥5星.png",
+    "hash": "c265668952c1fa0dc856849503acafb7",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/星魂圆.png",
+    "hash": "2dc2603b1e1f031b0cf615ba7716fe0e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/星魂圆暗.png",
+    "hash": "511a903c0115c26e7e74baca5b1d6944",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/立绘mask.png",
+    "hash": "188236b1a7b627599b231d17bb9e777c",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/立绘边框-冰.png",
+    "hash": "50384ac54efb4f3acb56c6f753120d77",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/立绘边框-火.png",
+    "hash": "253e97e444079f273be409a7b365e1ba",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/立绘边框-物理.png",
+    "hash": "6022cae12a4a87bcfeb0a82f6a193a46",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/立绘边框-虚数.png",
+    "hash": "74c53da6a9d07c46d83720de9fb25b3e",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/立绘边框-量子.png",
+    "hash": "19b01b93f58142c84f19099b56e44358",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/立绘边框-雷.png",
+    "hash": "36758aace812269beb257469d7d628db",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/立绘边框-风.png",
+    "hash": "e4916503980698616d56459b86ccbde6",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/背景-冰.png",
+    "hash": "883445f1f7911a1ce6cb0562585476d3",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/背景-火.png",
+    "hash": "a511ce3abcec94cd0a7b46904bea871b",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/背景-物理.png",
+    "hash": "d2e1096233126f9c1d5c1004a8239016",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/背景-虚数.png",
+    "hash": "f43358e2c511700ba6f42acdf6bce550",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/背景-量子.png",
+    "hash": "836586a1e5cb67fb60a77a9975d196ca",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/背景-雷.png",
+    "hash": "bb898de4d8adc442fd66881b1ce31a91",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/背景-风.png",
+    "hash": "f397543612b176755e88ca7d8c503434",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/行迹-雷.png",
+    "hash": "550c7b9d82883d3b30d7da1d383da608",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/遗器-冰.png",
+    "hash": "c56b29aad3af8032067ed3037ba95f37",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/遗器-火.png",
+    "hash": "ae3f38c2540b948b2de8c39c0b7adf1a",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/遗器-物理.png",
+    "hash": "ad1eeb80ec9fafe71332cbf20f5b52c6",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/遗器-虚数.png",
+    "hash": "46a094ef806ec05486b0421611ef37a6",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/遗器-量子.png",
+    "hash": "c7c73c243f8103e8723862d7f740379d",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/遗器-雷.png",
+    "hash": "d1273ee35a5a958bce761505c307aea4",
+    "lock": true
+  },
+  {
+    "path": "LittlePaimon/star_rail/遗器-风.png",
+    "hash": "05cdd19bdbd322fa130338f48b27bbce",
     "lock": true
   },
   {
